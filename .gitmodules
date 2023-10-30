@@ -1,0 +1,3 @@
+[submodule "thinkpad-uefi-sign"]
+	path = thinkpad-uefi-sign
+	url = https://github.com/thrimbor/thinkpad-uefi-sign.git
